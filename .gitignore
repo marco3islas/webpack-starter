@@ -1,7 +1,10 @@
 
 
+.eslintrc
 
+*.swp
 
 node_modules/
+
 
 dist/
